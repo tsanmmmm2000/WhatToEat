@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+android:oneshot="true">
+<item android:drawable="@drawable/thinking_monkey" android:duration="10" />
+<item android:drawable="@drawable/store00" android:duration="10" />
+<item android:drawable="@drawable/store01" android:duration="10" />
+<item android:drawable="@drawable/store02" android:duration="10" />
+<item android:drawable="@drawable/store03" android:duration="10" />
+<item android:drawable="@drawable/store04" android:duration="10" />
+<item android:drawable="@drawable/store05" android:duration="10" />
+<item android:drawable="@drawable/store06" android:duration="10" />
+<item android:drawable="@drawable/store07" android:duration="10" />
+<item android:drawable="@drawable/store08" android:duration="10" />
+<item android:drawable="@drawable/store09" android:duration="10" />
+<item android:drawable="@drawable/store10" android:duration="10" />
+<item android:drawable="@drawable/store11" android:duration="10" />
+<item android:drawable="@drawable/store12" android:duration="10" />
+<item android:drawable="@drawable/store13" android:duration="10" />
+<item android:drawable="@drawable/store14" android:duration="10" />
+<item android:drawable="@drawable/store15" android:duration="10" />
+<item android:drawable="@drawable/store16" android:duration="10" />
+<item android:drawable="@drawable/store17" android:duration="10" />
+<item android:drawable="@drawable/store18" android:duration="10" />
+<item android:drawable="@drawable/store19" android:duration="10" />
+<item android:drawable="@drawable/store20" android:duration="10" />
+<item android:drawable="@drawable/store21" android:duration="10" />
+<item android:drawable="@drawable/store22" android:duration="10" />
+
+<item android:drawable="@drawable/waiting_monkey" android:duration="10" />
+</animation-list> 
